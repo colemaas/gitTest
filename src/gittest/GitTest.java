@@ -17,6 +17,7 @@ public class GitTest {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello, world!");
+        System.out.println("Hi, I'm Doug Dimmadome owner of the Dimesdale Dimmadome");
     }
     
 }
